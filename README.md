@@ -8,7 +8,6 @@ Este é um projeto de implementação do clássico jogo "Snake" utilizando a lin
 
 - Sobre
 - Tecnologias Utilizadas
-- Estrutura do Projeto
 - Funcionalidades
 - Contato
 
